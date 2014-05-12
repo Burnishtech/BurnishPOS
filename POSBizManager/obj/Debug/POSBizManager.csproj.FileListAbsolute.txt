@@ -1,7 +1,0 @@
-C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSBizManager\bin\Debug\POSBizManager.dll
-C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSBizManager\bin\Debug\POSBizManager.pdb
-C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSBizManager\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSBizManager\obj\Debug\POSBizManager.dll
-C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSBizManager\obj\Debug\POSBizManager.pdb
-C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSBizManager\bin\Debug\POSDataManager.dll
-C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSBizManager\bin\Debug\POSDataManager.pdb
