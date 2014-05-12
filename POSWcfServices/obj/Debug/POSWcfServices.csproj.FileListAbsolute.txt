@@ -1,0 +1,5 @@
+C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSWcfServices\bin\POSWcfServices.dll
+C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSWcfServices\bin\POSWcfServices.pdb
+C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSWcfServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSWcfServices\obj\Debug\POSWcfServices.dll
+C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSWcfServices\obj\Debug\POSWcfServices.pdb
