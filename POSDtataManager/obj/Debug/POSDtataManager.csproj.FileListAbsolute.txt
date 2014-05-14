@@ -1,0 +1,5 @@
+C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSDtataManager\bin\Debug\POSDtataManager.dll
+C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSDtataManager\bin\Debug\POSDtataManager.pdb
+C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSDtataManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSDtataManager\obj\Debug\POSDtataManager.dll
+C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSDtataManager\obj\Debug\POSDtataManager.pdb

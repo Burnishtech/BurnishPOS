@@ -1,0 +1,5 @@
+C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSWindowsServices\bin\Debug\POSWindowsServices.exe
+C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSWindowsServices\bin\Debug\POSWindowsServices.pdb
+C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSWindowsServices\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSWindowsServices\obj\x86\Debug\POSWindowsServices.exe
+C:\Users\Kiranmay_samantaray\Desktop\Burnish\BurnishPOS\POSWindowsServices\obj\x86\Debug\POSWindowsServices.pdb
